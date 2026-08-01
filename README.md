@@ -355,18 +355,4 @@ Potential enhancements include:
 
 **Ritesh Jillewad**
 
-Final Year B.Tech (Computer Science & Engineering - AI & DS)
-
 ---
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
-Feel free to use, modify, and distribute it for learning and educational purposes.
-
----
-
-# ⭐ If you found this project useful
-
-Consider giving the repository a **Star ⭐** on GitHub.
